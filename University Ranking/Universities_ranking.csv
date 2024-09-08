@@ -1,0 +1,1560 @@
+Ranking,University,Location,Tuition,Enrollment
+#1,Princeton University,"Princeton, NJ","$59,710","5,604
+ (fall 2022)"
+#2,Massachusetts Institute of Technology,"Cambridge, MA","$60,156","4,657
+ (fall 2022)"
+#3,Harvard University,"Cambridge, MA","$59,076","7,240
+ (fall 2022)"
+#3,Stanford University,"Stanford, CA","$62,484","8,049
+ (fall 2022)"
+#5,Yale University,"New Haven, CT","$64,700","6,645
+ (fall 2022)"
+#6,University of Pennsylvania,"Philadelphia, PA","$66,104","9,760
+ (fall 2022)"
+#7,California Institute of Technology,"Pasadena, CA","$63,255","982
+ (fall 2022)"
+#7,Duke University,"Durham, NC","$66,172","6,640
+ (fall 2022)"
+#9,Brown University,"Providence, RI","$68,230","7,639
+ (fall 2022)"
+#9,Johns Hopkins University,"Baltimore, MD","$63,340","6,044
+ (fall 2022)"
+#9,Northwestern University,"Evanston, IL","$65,997","8,659
+ (fall 2022)"
+#12,Columbia University,"New York, NY","$65,524","8,832
+ (fall 2022)"
+#12,Cornell University,"Ithaca, NY","$66,014","15,735
+ (fall 2022)"
+#12,University of Chicago,"Chicago, IL","$65,619","7,470
+ (fall 2022)"
+#15,"University of California, Berkeley","Berkeley, CA","$48,465
+ (out-of-state)
+$15,891
+ (in-state)","32,831
+ (fall 2022)"
+#15,University of California--Los Angeles,"Los Angeles, CA","$46,326
+ (out-of-state)
+$13,752
+ (in-state)","32,423
+ (fall 2022)"
+#17,Rice University,"Houston, TX","$58,128","4,494
+ (fall 2022)"
+#18,Dartmouth College,"Hanover, NH","$65,511","4,458
+ (fall 2022)"
+#18,Vanderbilt University,"Nashville, TN","$63,946","7,151
+ (fall 2022)"
+#20,University of Notre Dame,"Notre Dame, IN","$62,693","8,971
+ (fall 2022)"
+#21,University of Michigan--Ann Arbor,"Ann Arbor, MI","$57,273
+ (out-of-state)
+$17,786
+ (in-state)","32,695
+ (fall 2022)"
+#22,Georgetown University,"Washington, DC","$65,082","7,900
+ (fall 2022)"
+#22,University of North Carolina--Chapel Hill,"Chapel Hill, NC","$39,338
+ (out-of-state)
+$8,998
+ (in-state)","20,210
+ (fall 2022)"
+#24,Carnegie Mellon University,"Pittsburgh, PA","$63,829","7,509
+ (fall 2022)"
+#24,Emory University,"Atlanta, GA","$60,774","7,101
+ (fall 2022)"
+#24,University of Virginia,"Charlottesville, VA","$58,950
+ (out-of-state)
+$22,323
+ (in-state)","17,496
+ (fall 2022)"
+#24,Washington University in St. Louis,"St. Louis, MO","$62,982","8,132
+ (fall 2022)"
+#28,"University of California, Davis","Davis, CA","$46,043
+ (out-of-state)
+$15,266
+ (in-state)","31,532
+ (fall 2022)"
+#28,"University of California, San Diego","La Jolla, CA","$48,630
+ (out-of-state)
+$16,056
+ (in-state)","33,096
+ (fall 2022)"
+#28,University of Florida,"Gainesville, FL","$28,658
+ (out-of-state)
+$6,381
+ (in-state)","34,552
+ (fall 2022)"
+#28,University of Southern California,"Los Angeles, CA","$68,237","20,699
+ (fall 2022)"
+#32,The University of Texas--Austin,"Austin, TX","$41,070
+ (out-of-state)
+$11,698
+ (in-state)","41,309
+ (fall 2022)"
+#33,Georgia Institute of Technology,"Atlanta, GA","$32,876
+ (out-of-state)
+$11,764
+ (in-state)","18,415
+ (fall 2022)"
+#33,University of California--Irvine,"Irvine, CA","$47,759
+ (out-of-state)
+$15,185
+ (in-state)","28,661
+ (fall 2022)"
+#35,New York University,"New York, NY","$60,438","29,401
+ (fall 2022)"
+#35,"University of California, Santa Barbara","Santa Barbara, CA","$45,658
+ (out-of-state)
+$14,881
+ (in-state)","23,460
+ (fall 2022)"
+#35,University of Illinois Urbana-Champaign,"Champaign, IL","$36,068
+ (out-of-state)
+$17,572
+ (in-state)","35,120
+ (fall 2022)"
+#35,University of Wisconsin--Madison,"Madison, WI","$40,603
+ (out-of-state)
+$11,205
+ (in-state)","37,230
+ (fall 2022)"
+#39,Boston College,"Chestnut Hill, MA","$67,680","9,484
+ (fall 2022)"
+#40,Rutgers University--New Brunswick,"Piscataway, NJ","$36,001
+ (out-of-state)
+$17,239
+ (in-state)","36,344
+ (fall 2022)"
+#40,Tufts University,"Medford, MA","$67,844","6,815
+ (fall 2022)"
+#40,University of Washington,"Seattle, WA","$41,997
+ (out-of-state)
+$12,643
+ (in-state)","36,872
+ (fall 2022)"
+#43,Boston University,"Boston, MA","$65,168","18,459
+ (fall 2022)"
+#43,The Ohio State University,"Columbus, OH","$36,722
+ (out-of-state)
+$12,485
+ (in-state)","46,123
+ (fall 2022)"
+#43,Purdue University--Main Campus,"West Lafayette, IN","$28,794
+ (out-of-state)
+$9,992
+ (in-state)","37,949
+ (fall 2022)"
+#46,"University of Maryland, College Park","College Park, MD","$40,306
+ (out-of-state)
+$11,505
+ (in-state)","30,353
+ (fall 2022)"
+#47,Lehigh University,"Bethlehem, PA","$62,180","5,624
+ (fall 2022)"
+#47,Texas A&M University,"College Station, TX","$40,607
+ (out-of-state)
+$12,413
+ (in-state)","57,512
+ (fall 2022)"
+#47,University of Georgia,"Athens, GA","$30,220
+ (out-of-state)
+$11,180
+ (in-state)","30,714
+ (fall 2022)"
+#47,University of Rochester,"Rochester, NY","$64,384","6,767
+ (fall 2022)"
+#47,Virginia Tech,"Blacksburg, VA","$36,090
+ (out-of-state)
+$15,478
+ (in-state)","30,434
+ (fall 2022)"
+#47,Wake Forest University,"Winston-Salem, NC","$64,758","5,447
+ (fall 2022)"
+#53,Case Western Reserve University,"Cleveland, OH","$62,234","6,017
+ (fall 2022)"
+#53,Florida State University,"Tallahassee, FL","$21,683
+ (out-of-state)
+$6,517
+ (in-state)","32,936
+ (fall 2022)"
+#53,Northeastern University,"Boston, MA","$63,141","16,302
+ (fall 2022)"
+#53,University of Minnesota--Twin Cities,"Minneapolis, MN","$36,402
+ (out-of-state)
+$16,488
+ (in-state)","39,248
+ (fall 2022)"
+#53,William & Mary,"Williamsburg, VA","$48,841
+ (out-of-state)
+$25,041
+ (in-state)","6,797
+ (fall 2022)"
+#58,Stony Brook University--SUNY,"Stony Brook, NY","$30,350
+ (out-of-state)
+$10,560
+ (in-state)","17,509
+ (fall 2022)"
+#58,University of Connecticut,"Storrs, CT","$43,034
+ (out-of-state)
+$20,366
+ (in-state)","18,983
+ (fall 2022)"
+#60,Brandeis University,"Waltham, MA","$62,722","3,687
+ (fall 2022)"
+#60,Michigan State University,"East Lansing, MI","$41,958
+ (out-of-state)
+$15,372
+ (in-state)","39,201
+ (fall 2022)"
+#60,North Carolina State University,"Raleigh, NC","$31,976
+ (out-of-state)
+$9,105
+ (in-state)","26,254
+ (fall 2022)"
+#60,The Pennsylvania State University--University Park,"University Park, PA","$38,651
+ (out-of-state)
+$19,835
+ (in-state)","41,745
+ (fall 2022)"
+#60,Rensselaer Polytechnic Institute,"Troy, NY","$61,884","5,895
+ (fall 2022)"
+#60,Santa Clara University,"Santa Clara, CA","$59,241","6,115
+ (fall 2022)"
+#60,"University of California, Merced","Merced, CA","$43,777
+ (out-of-state)
+$13,000
+ (in-state)","8,344
+ (fall 2022)"
+#67,George Washington University,"Washington, DC","$64,990","11,482
+ (fall 2022)"
+#67,Syracuse University,"Syracuse, NY","$63,061","15,421
+ (fall 2022)"
+#67,University of Massachusetts--Amherst,"Amherst, MA","$39,293
+ (out-of-state)
+$17,357
+ (in-state)","24,391
+ (fall 2022)"
+#67,University of Miami,"Coral Gables, FL","$59,926","12,504
+ (fall 2022)"
+#67,University of Pittsburgh,"Pittsburgh, PA","$39,890
+ (out-of-state)
+$21,524
+ (in-state)","19,928
+ (fall 2022)"
+#67,Villanova University,"Villanova, PA","$64,906","6,989
+ (fall 2022)"
+#73,Binghamton University--SUNY,"Binghamton, NY","$28,203
+ (out-of-state)
+$10,363
+ (in-state)","14,402
+ (fall 2022)"
+#73,Indiana University--Bloomington,"Bloomington, IN","$40,482
+ (out-of-state)
+$11,790
+ (in-state)","35,660
+ (fall 2022)"
+#73,Tulane University,"New Orleans, LA","$65,538","7,350
+ (fall 2022)"
+#76,Colorado School of Mines,"Golden, CO","$42,120
+ (out-of-state)
+$20,040
+ (in-state)","5,733
+ (fall 2022)"
+#76,Pepperdine University,"Malibu, CA","$66,742","3,662
+ (fall 2022)"
+#76,Stevens Institute of Technology,"Hoboken, NJ","$60,952","3,988
+ (fall 2022)"
+#76,University at Buffalo--SUNY,"Buffalo, NY","$30,571
+ (out-of-state)
+$10,781
+ (in-state)","20,761
+ (fall 2022)"
+#76,"University of California, Riverside","Riverside, CA","$46,266
+ (out-of-state)
+$13,692
+ (in-state)","22,903
+ (fall 2022)"
+#76,University of Delaware,"Newark, DE","$39,720
+ (out-of-state)
+$16,080
+ (in-state)","18,883
+ (fall 2022)"
+#82,Rutgers University--Newark,"Newark, NJ","$35,348
+ (out-of-state)
+$16,586
+ (in-state)","7,511
+ (fall 2022)"
+#82,"University of California, Santa Cruz","Santa Cruz, CA","$47,862
+ (out-of-state)
+$15,288
+ (in-state)","17,502
+ (fall 2022)"
+#82,University of Illinois--Chicago,"Chicago, IL","$32,833
+ (out-of-state)
+$17,811
+ (in-state)","21,807
+ (fall 2022)"
+#82,Worcester Polytechnic Institute,"Worcester, MA","$58,870","5,246
+ (fall 2022)"
+#86,Clemson University,"Clemson, SC","$39,502
+ (out-of-state)
+$15,558
+ (in-state)","22,566
+ (fall 2022)"
+#86,Marquette University,"Milwaukee, WI","$48,700","7,528
+ (fall 2022)"
+#86,New Jersey Institute of Technology,"Newark, NJ","$34,972
+ (out-of-state)
+$18,512
+ (in-state)","9,019
+ (fall 2022)"
+#89,Fordham University,"New York, NY","$61,567","10,098
+ (fall 2022)"
+#89,Southern Methodist University,"Dallas, TX","$64,460","7,056
+ (fall 2022)"
+#89,Temple University,"Philadelphia, PA","$35,956
+ (out-of-state)
+$21,095
+ (in-state)","24,106
+ (fall 2022)"
+#89,University of South Florida,"Tampa, FL","$17,324
+ (out-of-state)
+$6,410
+ (in-state)","38,046
+ (fall 2022)"
+#93,Auburn University,"Auburn, AL","$33,944
+ (out-of-state)
+$12,536
+ (in-state)","25,379
+ (fall 2022)"
+#93,Baylor University,"Waco, TX","$54,844","15,213
+ (fall 2022)"
+#93,Gonzaga University,"Spokane, WA","$53,500","5,084
+ (fall 2022)"
+#93,Loyola Marymount University,"Los Angeles, CA","$58,489","7,299
+ (fall 2022)"
+#93,University of Iowa,"Iowa City, IA","$32,927
+ (out-of-state)
+$10,964
+ (in-state)","21,973
+ (fall 2022)"
+#98,Drexel University,"Philadelphia, PA","$60,663","12,482
+ (fall 2022)"
+#98,Illinois Institute of Technology,"Chicago, IL","$51,763","3,125
+ (fall 2022)"
+#98,Rochester Institute of Technology,"Rochester, NY","$57,016","13,940
+ (fall 2022)"
+#98,Rutgers University--Camden,"Camden, NJ","$35,841
+ (out-of-state)
+$17,079
+ (in-state)","4,185
+ (fall 2022)"
+#98,Texas Christian University,"Fort Worth, TX","$57,220","10,523
+ (fall 2022)"
+#98,University of Oregon,"Eugene, OR","$41,194
+ (out-of-state)
+$14,751
+ (in-state)","19,565
+ (fall 2022)"
+#98,University of San Diego,"San Diego, CA","$56,444","5,669
+ (fall 2022)"
+#105,American University,"Washington, DC","$56,544","7,917
+ (fall 2022)"
+#105,Arizona State University,"Tempe, AZ","$32,193
+ (out-of-state)
+$12,051
+ (in-state)","65,492
+ (fall 2022)"
+#105,California State University--Long Beach,"Long Beach, CA","$17,200
+ (out-of-state)
+$6,904
+ (in-state)","32,711
+ (fall 2022)"
+#105,CUNY--City College,"New York, NY","$19,010
+ (out-of-state)
+$7,340
+ (in-state)","11,929
+ (fall 2022)"
+#105,George Mason University,"Fairfax, VA","$37,976
+ (out-of-state)
+$13,812
+ (in-state)","27,014
+ (fall 2022)"
+#105,Saint Louis University,"St. Louis, MO","$53,244","7,426
+ (fall 2022)"
+#105,San Diego State University,"San Diego, CA","$20,170
+ (out-of-state)
+$8,290
+ (in-state)","31,724
+ (fall 2022)"
+#105,University of Colorado Boulder,"Boulder, CO","$41,966
+ (out-of-state)
+$13,622
+ (in-state)","31,103
+ (fall 2022)"
+#105,University of Tennessee--Knoxville,"Knoxville, TN","$31,434
+ (out-of-state)
+$13,244
+ (in-state)","27,039
+ (fall 2022)"
+#105,Yeshiva University,"New York, NY","$49,900","2,207
+ (fall 2022)"
+#115,Brigham Young University,"Provo, UT","$6,496","31,401
+ (fall 2022)"
+#115,Howard University,"Washington, DC","$33,344","9,809
+ (fall 2022)"
+#115,Iowa State University of Science and Technology,"Ames, IA","$26,617
+ (out-of-state)
+$10,133
+ (in-state)","25,241
+ (fall 2022)"
+#115,SUNY College of Environmental Science and Forestry,"Syracuse, NY","$21,036
+ (out-of-state)
+$9,206
+ (in-state)","1,621
+ (fall 2022)"
+#115,University of Arizona,"Tucson, AZ","$37,355
+ (out-of-state)
+$12,937
+ (in-state)","40,407
+ (fall 2022)"
+#115,University of New Hampshire,"Durham, NH","$38,882
+ (out-of-state)
+$19,112
+ (in-state)","11,480
+ (fall 2022)"
+#115,University of San Francisco,"San Francisco, CA","$58,222","6,018
+ (fall 2022)"
+#115,The University of Texas--Dallas,"Richardson, TX","$44,812
+ (out-of-state)
+$16,412
+ (in-state)","21,617
+ (fall 2022)"
+#115,University of Utah,"Salt Lake City, UT","$33,045
+ (out-of-state)
+$10,287
+ (in-state)","26,355
+ (fall 2022)"
+#124,Creighton University,"Omaha, NE","$47,000","4,290
+ (fall 2022)"
+#124,Fairfield University,"Fairfield, CT","$56,360","4,757
+ (fall 2022)"
+#124,Florida International University,"Miami, FL","$18,964
+ (out-of-state)
+$6,566
+ (in-state)","45,442
+ (fall 2022)"
+#124,James Madison University,"Harrisonburg, VA","$30,790
+ (out-of-state)
+$13,576
+ (in-state)","20,346
+ (fall 2022)"
+#124,University of Central Florida,"Orlando, FL","$22,467
+ (out-of-state)
+$6,368
+ (in-state)","58,749
+ (fall 2022)"
+#124,University of Denver,"Denver, CO","$59,340","6,160
+ (fall 2022)"
+#124,University of Missouri,"Columbia, MO","$34,322
+ (out-of-state)
+$14,122
+ (in-state)","23,752
+ (fall 2022)"
+#124,University of Oklahoma,"Norman, OK","$25,880
+ (out-of-state)
+$9,312
+ (in-state)","21,294
+ (fall 2022)"
+#124,University of South Carolina,"Columbia, SC","$33,928
+ (out-of-state)
+$12,688
+ (in-state)","27,343
+ (fall 2022)"
+#133,California State University--Fullerton,"Fullerton, CA","$18,954
+ (out-of-state)
+$7,074
+ (in-state)","35,239
+ (fall 2022)"
+#133,Chapman University,"Orange, CA","$62,784","7,869
+ (fall 2022)"
+#133,Elon University,"Elon, NC","$44,536","6,337
+ (fall 2022)"
+#133,Miami University--Oxford,"Oxford, OH","$38,127
+ (out-of-state)
+$17,055
+ (in-state)","16,865
+ (fall 2022)"
+#133,University at Albany--SUNY,"Albany, NY","$28,998
+ (out-of-state)
+$10,408
+ (in-state)","12,264
+ (fall 2022)"
+#133,University of Dayton,"Dayton, OH","$47,600","8,416
+ (fall 2022)"
+#133,University of Houston,"Houston, TX","$27,110
+ (out-of-state)
+$11,870
+ (in-state)","37,943
+ (fall 2022)"
+#133,University of Maryland Baltimore County,"Baltimore, MD","$30,308
+ (out-of-state)
+$12,952
+ (in-state)","10,625
+ (fall 2022)"
+#133,University of Vermont,"Burlington, VT","$43,890
+ (out-of-state)
+$18,890
+ (in-state)","11,898
+ (fall 2022)"
+#142,Clarkson University,"Potsdam, NY","$57,950","2,668
+ (fall 2022)"
+#142,Clark University,"Worcester, MA","$55,187","2,389
+ (fall 2022)"
+#142,Loyola University Chicago,"Chicago, IL","$51,706","11,703
+ (fall 2022)"
+#142,Oregon State University,"Corvallis, OR","$35,664
+ (out-of-state)
+$13,494
+ (in-state)","28,905
+ (fall 2022)"
+#142,Thomas Jefferson University,"Philadelphia, PA","$45,733","3,771
+ (fall 2022)"
+#142,University of Alabama at Birmingham,"Birmingham, AL","$26,520
+ (out-of-state)
+$11,040
+ (in-state)","13,032
+ (fall 2022)"
+#142,University of Cincinnati,"Cincinnati, OH","$27,140
+ (out-of-state)
+$13,530
+ (in-state)","29,989
+ (fall 2022)"
+#142,University of the Pacific,"Stockton, CA","$55,340","3,294
+ (fall 2022)"
+#142,Virginia Commonwealth University,"Richmond, VA","$38,247
+ (out-of-state)
+$16,353
+ (in-state)","20,958
+ (fall 2022)"
+#151,Colorado State University,"Fort Collins, CO","$33,752
+ (out-of-state)
+$12,896
+ (in-state)","26,062
+ (fall 2022)"
+#151,DePaul University,"Chicago, IL","$44,460","14,134
+ (fall 2022)"
+#151,Duquesne University,"Pittsburgh, PA","$47,146","5,095
+ (fall 2022)"
+#151,Michigan Technological University,"Houghton, MI","$41,340
+ (out-of-state)
+$18,392
+ (in-state)","5,710
+ (fall 2022)"
+#151,Seton Hall University,"South Orange, NJ","$51,370","6,012
+ (fall 2022)"
+#151,Simmons University,"Boston, MA","$45,538","1,789
+ (fall 2022)"
+#151,University of Kansas,"Lawrence, KS","$28,035
+ (out-of-state)
+$11,167
+ (in-state)","19,241
+ (fall 2022)"
+#151,University of Rhode Island,"Kingston, RI","$35,804
+ (out-of-state)
+$16,408
+ (in-state)","13,927
+ (fall 2022)"
+#159,Stockton University,"Galloway, NJ","$23,420
+ (out-of-state)
+$15,532
+ (in-state)","8,138
+ (fall 2022)"
+#159,University of Kentucky,"Lexington, KY","$33,406
+ (out-of-state)
+$13,212
+ (in-state)","22,735
+ (fall 2022)"
+#159,University of Massachusetts--Lowell,"Lowell, MA","$35,396
+ (out-of-state)
+$16,570
+ (in-state)","12,391
+ (fall 2022)"
+#159,University of Nebraska -- Lincoln,"Lincoln, NE","$27,748
+ (out-of-state)
+$10,108
+ (in-state)","19,189
+ (fall 2022)"
+#163,Adelphi University,"Garden City, NY","$47,290","5,055
+ (fall 2022)"
+#163,Montclair State University,"Montclair, NJ","$22,470
+ (out-of-state)
+$14,767
+ (in-state)","17,290
+ (fall 2022)"
+#163,Rowan University,"Glassboro, NJ","$25,564
+ (out-of-state)
+$15,700
+ (in-state)","15,264
+ (fall 2022)"
+#163,Seattle University,"Seattle, WA","$54,285","4,099
+ (fall 2022)"
+#163,St. John's University (NY),"Queens, NY","$50,110","15,652
+ (fall 2022)"
+#163,University of Mississippi,"University, MS","$26,980
+ (out-of-state)
+$9,412
+ (in-state)","17,302
+ (fall 2022)"
+#163,University of St. Thomas (MN),"St. Paul, MN","$52,284","5,942
+ (fall 2022)"
+#170,California State University--San Bernardino,"San Bernardino, CA","$14,311
+ (out-of-state)
+$7,679
+ (in-state)","16,813
+ (fall 2022)"
+#170,Florida A&M University,"Tallahassee, FL","$17,725
+ (out-of-state)
+$5,785
+ (in-state)","7,709
+ (fall 2022)"
+#170,Kansas State University,"Manhattan, KS","$27,816
+ (out-of-state)
+$10,942
+ (in-state)","15,046
+ (fall 2022)"
+#170,Mercer University,"Macon, GA","$40,890","4,859
+ (fall 2022)"
+#170,Quinnipiac University,"Hamden, CT","$53,090","6,073
+ (fall 2022)"
+#170,The University of Alabama,"Tuscaloosa, AL","$33,200
+ (out-of-state)
+$11,900
+ (in-state)","32,458
+ (fall 2022)"
+#170,University of Hawaii at Manoa,"Honolulu, HI","$34,218
+ (out-of-state)
+$12,186
+ (in-state)","14,198
+ (fall 2022)"
+#170,University of La Verne,"La Verne, CA","$48,300","2,414
+ (fall 2022)"
+#178,The Catholic University of America,"Washington, DC","$55,834","3,011
+ (fall 2022)"
+#178,Drake University,"Des Moines, IA","$50,114","2,835
+ (fall 2022)"
+#178,Ohio University,"Athens, OH","$24,114
+ (out-of-state)
+$13,746
+ (in-state)","17,860
+ (fall 2022)"
+#178,San Francisco State University,"San Francisco, CA","$19,404
+ (out-of-state)
+$7,524
+ (in-state)","21,868
+ (fall 2022)"
+#178,University of Arkansas,"Fayetteville, AR","$28,772
+ (out-of-state)
+$9,748
+ (in-state)","26,269
+ (fall 2022)"
+#178,University of North Carolina--Charlotte,"Charlotte, NC","$21,338
+ (out-of-state)
+$7,214
+ (in-state)","23,461
+ (fall 2022)"
+#178,Washington State University,"Pullman, WA","$29,073
+ (out-of-state)
+$12,997
+ (in-state)","22,612
+ (fall 2022)"
+#185,Bradley University,"Peoria, IL","$39,680","4,143
+ (fall 2022)"
+#185,California State University--Fresno,"Fresno, CA","$13,112
+ (out-of-state)
+$6,974
+ (in-state)","21,305
+ (fall 2022)"
+#185,Hofstra University,"Hempstead, NY","$55,450","6,110
+ (fall 2022)"
+#185,Louisiana State University--Baton Rouge,"Baton Rouge, LA","$28,631
+ (out-of-state)
+$11,954
+ (in-state)","30,952
+ (fall 2022)"
+#185,Missouri University of Science and Technology,"Rolla, MO","$31,862
+ (out-of-state)
+$14,462
+ (in-state)","5,501
+ (fall 2022)"
+#185,Oklahoma State University,"Stillwater, OK","$24,764
+ (out-of-state)
+$9,244
+ (in-state)","20,801
+ (fall 2022)"
+#185,Samford University,"Birmingham, AL","$38,144","3,672
+ (fall 2022)"
+#185,St. John Fisher University,"Rochester, NY","$39,666","2,629
+ (fall 2022)"
+#185,University of Detroit Mercy,"Detroit, MI","$31,058","3,156
+ (fall 2022)"
+#185,University of Idaho,"Moscow, ID","$28,052
+ (out-of-state)
+$8,816
+ (in-state)","8,809
+ (fall 2022)"
+#195,East Carolina University,"Greenville, NC","$23,602
+ (out-of-state)
+$7,325
+ (in-state)","21,688
+ (fall 2022)"
+#195,Russell Sage College,"Troy, NY","$36,756","1,126
+ (fall 2022)"
+#195,Touro University,"New York, NY","$21,810","4,860
+ (fall 2022)"
+#195,University of Louisville,"Louisville, KY","$29,174
+ (out-of-state)
+$12,828
+ (in-state)","15,921
+ (fall 2022)"
+#195,University of Nevada--Reno,"Reno, NV","$25,950
+ (out-of-state)
+$8,994
+ (in-state)","16,973
+ (fall 2022)"
+#195,University of Tulsa,"Tulsa, OK","$48,102","2,647
+ (fall 2022)"
+#201,Indiana University--Indianapolis,"Indianapolis, IN","$33,717
+ (out-of-state)
+$10,449
+ (in-state)","17,727
+ (fall 2022)"
+#201,La Salle University,"Philadelphia, PA","$35,520","2,776
+ (fall 2022)"
+#201,The New School,"New York, NY","$56,244","7,208
+ (fall 2022)"
+#201,Robert Morris University,"Moon Township, PA","$34,740","2,782
+ (fall 2022)"
+#201,University of North Carolina--Wilmington,"Wilmington, NC","$22,985
+ (out-of-state)
+$7,317
+ (in-state)","14,294
+ (fall 2022)"
+#201,Valparaiso University,"Valparaiso, IN","$46,588","2,349
+ (fall 2022)"
+#201,Wayne State University,"Detroit, MI","$31,614
+ (out-of-state)
+$14,925
+ (in-state)","16,116
+ (fall 2022)"
+#201,Xavier University,"Cincinnati, OH","$48,125","4,860
+ (fall 2022)"
+#209,Chatham University,"Pittsburgh, PA","$43,810","1,499
+ (fall 2022)"
+#209,Florida Atlantic University,"Boca Raton, FL","$21,655
+ (out-of-state)
+$6,099
+ (in-state)","24,229
+ (fall 2022)"
+#209,Illinois State University,"Normal, IL","$27,011
+ (out-of-state)
+$15,171
+ (in-state)","18,055
+ (fall 2022)"
+#209,Pacific University,"Forest Grove, OR","$54,466","1,639
+ (fall 2022)"
+#209,Sacred Heart University,"Fairfield, CT","$48,460","6,782
+ (fall 2022)"
+#209,University of Massachusetts--Dartmouth,"North Dartmouth, MA","$30,992
+ (out-of-state)
+$14,854
+ (in-state)","5,517
+ (fall 2022)"
+#209,West Chester University of Pennsylvania,"West Chester, PA","$22,261
+ (out-of-state)
+$10,687
+ (in-state)","14,392
+ (fall 2022)"
+#216,Ball State University,"Muncie, IN","$28,766
+ (out-of-state)
+$10,758
+ (in-state)","14,416
+ (fall 2022)"
+#216,The College of St. Scholastica,"Duluth, MN","$40,454","1,938
+ (fall 2022)"
+#216,Mississippi State University,"Mississippi State, MS","$26,580
+ (out-of-state)
+$9,815
+ (in-state)","18,305
+ (fall 2022)"
+#216,Springfield College,"Springfield, MA","$43,707","2,005
+ (fall 2022)"
+#216,St. Catherine University,"St. Paul, MN","$49,758","2,416
+ (fall 2022)"
+#216,Texas Tech University,"Lubbock, TX","$24,092
+ (out-of-state)
+$11,852
+ (in-state)","32,579
+ (fall 2022)"
+#216,University of Massachusetts--Boston,"Boston, MA","$37,211
+ (out-of-state)
+$15,535
+ (in-state)","12,221
+ (fall 2022)"
+#216,University of North Carolina--Greensboro,"Greensboro, NC","$22,539
+ (out-of-state)
+$7,379
+ (in-state)","14,198
+ (fall 2022)"
+#216,University of St. Thomas (TX),"Houston, TX","$33,660","2,729
+ (fall 2022)"
+#216,University of Wyoming,"Laramie, WY","$22,718
+ (out-of-state)
+$6,938
+ (in-state)","8,518
+ (fall 2022)"
+#216,West Virginia University,"Morgantown, WV","$26,568
+ (out-of-state)
+$9,360
+ (in-state)","19,059
+ (fall 2022)"
+#227,Georgia State University,"Atlanta, GA","$29,306
+ (out-of-state)
+$10,268
+ (in-state)","28,927
+ (fall 2022)"
+#227,Kent State University,"Kent, OH","$22,316
+ (out-of-state)
+$12,846
+ (in-state)","20,418
+ (fall 2022)"
+#227,Misericordia University,"Dallas, PA","$38,370","1,777
+ (fall 2022)"
+#227,Nova Southeastern University,"Ft. Lauderdale, FL","$37,080","6,971
+ (fall 2022)"
+#227,University of Alabama at Huntsville,"Huntsville, AL","$24,770
+ (out-of-state)
+$11,878
+ (in-state)","7,169
+ (fall 2022)"
+#227,The University of Texas--Rio Grande Valley,"Edinburg, TX","$19,333
+ (out-of-state)
+$9,538
+ (in-state)","26,434
+ (fall 2022)"
+#227,Western Carolina University,"Cullowhee, NC","$8,532
+ (out-of-state)
+$4,532
+ (in-state)","9,956
+ (fall 2022)"
+#227,Widener University,"Chester, PA","$53,638","2,555
+ (fall 2022)"
+#235,Grand Valley State University,"Allendale, MI","$20,820
+ (out-of-state)
+$14,628
+ (in-state)","19,379
+ (fall 2022)"
+#236,Azusa Pacific University,"Azusa, CA","$42,330","2,588
+ (fall 2022)"
+#236,Belmont University,"Nashville, TN","$41,320","7,376
+ (fall 2022)"
+#236,Bethel University (MN),"St. Paul, MN","$42,930","2,533
+ (fall 2022)"
+#236,Biola University,"La Mirada, CA","$46,704","3,499
+ (fall 2022)"
+#236,Gallaudet University,"Washington, DC","$18,254","914
+ (fall 2022)"
+#236,Lipscomb University,"Nashville, TN","$38,824","2,955
+ (fall 2022)"
+#236,University of Colorado Denver,"Denver, CO","$35,106
+ (out-of-state)
+$12,366
+ (in-state)","14,055
+ (fall 2022)"
+#236,University of New Mexico,"Albuquerque, NM","$26,452
+ (out-of-state)
+$10,092
+ (in-state)","15,914
+ (fall 2022)"
+#236,University of North Dakota,"Grand Forks, ND","$15,570
+ (out-of-state)
+$10,951
+ (in-state)","9,928
+ (fall 2022)"
+#236,University of North Florida,"Jacksonville, FL","$20,107
+ (out-of-state)
+$6,398
+ (in-state)","14,171
+ (fall 2022)"
+#236,The University of Texas--Arlington,"Arlington, TX","$29,660
+ (out-of-state)
+$11,728
+ (in-state)","30,791
+ (fall 2022)"
+#236,Western New England University,"Springfield, MA","$46,430","2,406
+ (fall 2022)"
+#249,Keiser University,"Ft. Lauderdale, FL","$36,020","16,960
+ (fall 2022)"
+#249,Maryville University of St. Louis,"St Louis, MO","$27,166","5,809
+ (fall 2022)"
+#249,North Dakota State University,"Fargo, ND","$15,646
+ (out-of-state)
+$10,992
+ (in-state)","10,096
+ (fall 2022)"
+#249,Northern Arizona University,"Flagstaff, AZ","$28,900
+ (out-of-state)
+$12,654
+ (in-state)","23,207
+ (fall 2022)"
+#249,Pace University,"New York, NY","$51,424","8,223
+ (fall 2022)"
+#249,Sam Houston State University,"Huntsville, TX","$22,996
+ (out-of-state)
+$10,756
+ (in-state)","18,235
+ (fall 2022)"
+#249,Suffolk University,"Boston, MA","$45,380","4,437
+ (fall 2022)"
+#249,Tennessee Tech University,"Cookeville, TN","$15,030
+ (out-of-state)
+$10,830
+ (in-state)","8,537
+ (fall 2022)"
+#249,Union University,"Jackson, TN","$38,300","1,899
+ (fall 2022)"
+#249,University of Maine,"Orono, ME","$35,346
+ (out-of-state)
+$12,606
+ (in-state)","9,774
+ (fall 2022)"
+#249,University of Wisconsin--La Crosse,"La Crosse, WI","$18,814
+ (out-of-state)
+$9,774
+ (in-state)","9,352
+ (fall 2022)"
+#260,Central Michigan University,"Mount Pleasant, MI","$14,790
+ (out-of-state)
+$14,790
+ (in-state)","10,421
+ (fall 2022)"
+#260,Gannon University,"Erie, PA","$36,676","2,991
+ (fall 2022)"
+#260,Gwynedd Mercy University,"Gwynedd Valley, PA","$38,310","1,412
+ (fall 2022)"
+#260,Loyola University New Orleans,"New Orleans, LA","$47,240","3,289
+ (fall 2022)"
+#260,Regis University,"Denver, CO","$43,980","2,398
+ (fall 2022)"
+#260,University of Missouri--St. Louis,"St. Louis, MO","$31,516
+ (out-of-state)
+$12,648
+ (in-state)","12,431
+ (fall 2022)"
+#260,University of New England,"Biddeford, ME","$42,550","3,718
+ (fall 2022)"
+#260,University of North Texas,"Denton, TX","$24,644
+ (out-of-state)
+$12,044
+ (in-state)","33,024
+ (fall 2022)"
+#260,Winston-Salem State University,"Winston-Salem, NC","$16,932
+ (out-of-state)
+$6,276
+ (in-state)","4,726
+ (fall 2022)"
+#269,Florida Institute of Technology,"Melbourne, FL","$44,360","3,374
+ (fall 2022)"
+#269,George Fox University,"Newberg, OR","$40,940","2,534
+ (fall 2022)"
+#269,Lincoln Memorial University,"Harrogate, TN","$26,150","1,560
+ (fall 2022)"
+#269,Northern Illinois University,"DeKalb, IL","$12,504
+ (out-of-state)
+$12,504
+ (in-state)","11,429
+ (fall 2022)"
+#269,Seattle Pacific University,"Seattle, WA","$38,814","2,428
+ (fall 2022)"
+#269,University of Memphis,"Memphis, TN","$18,024
+ (out-of-state)
+$10,344
+ (in-state)","16,708
+ (fall 2022)"
+#269,University of Missouri--Kansas City,"Kansas City, MO","$30,734
+ (out-of-state)
+$12,734
+ (in-state)","10,190
+ (fall 2022)"
+#269,University of Nevada--Las Vegas,"Las Vegas, NV","$26,099
+ (out-of-state)
+$9,143
+ (in-state)","25,365
+ (fall 2022)"
+#269,University of South Dakota,"Vermillion, SD","$12,942
+ (out-of-state)
+$9,432
+ (in-state)","7,132
+ (fall 2022)"
+#269,Utah State University,"Logan, UT","$24,802
+ (out-of-state)
+$9,228
+ (in-state)","24,835
+ (fall 2022)"
+#269,Wilkes University,"Wilkes-Barre, PA","$42,286","2,000
+ (fall 2022)"
+#280,Bellarmine University,"Louisville, KY","$46,780","2,343
+ (fall 2022)"
+#280,Bowling Green State University,"Bowling Green, OH","$21,424
+ (out-of-state)
+$13,436
+ (in-state)","13,853
+ (fall 2022)"
+#280,California State University--East Bay,"Hayward, CA","$18,875
+ (out-of-state)
+$6,995
+ (in-state)","12,114
+ (fall 2022)"
+#280,Clarke University,"Dubuque, IA","$39,600","785
+ (fall 2022)"
+#280,DeSales University,"Center Valley, PA","$44,800","2,231
+ (fall 2022)"
+#280,Hampton University,"Hampton, VA","$29,312","2,794
+ (fall 2022)"
+#280,Immaculata University,"Immaculata, PA","$28,550","1,508
+ (fall 2022)"
+#280,Marian University (IN),"Indianapolis, IN","$39,100","2,860
+ (fall 2022)"
+#280,North Carolina Agricultural and Technical State University,"Greensboro, NC","$20,243
+ (out-of-state)
+$6,733
+ (in-state)","11,833
+ (fall 2022)"
+#280,Oklahoma City University,"Oklahoma City, OK","$33,586","1,361
+ (fall 2022)"
+#280,Old Dominion University,"Norfolk, VA","$32,662
+ (out-of-state)
+$12,262
+ (in-state)","18,375
+ (fall 2022)"
+#280,Portland State University,"Portland, OR","$24,495
+ (out-of-state)
+$9,375
+ (in-state)","16,864
+ (fall 2022)"
+#280,Southern Illinois University--Carbondale,"Carbondale, IL","$15,522
+ (out-of-state)
+$15,522
+ (in-state)","8,000
+ (fall 2022)"
+#280,Texas State University,"San Marcos, TX","$24,447
+ (out-of-state)
+$12,207
+ (in-state)","33,834
+ (fall 2022)"
+#280,University of St. Francis,"Joliet, IL","$37,000","1,417
+ (fall 2022)"
+#280,The University of Texas--San Antonio,"San Antonio, TX","$26,798
+ (out-of-state)
+$10,580
+ (in-state)","29,654
+ (fall 2022)"
+#280,The University of Toledo,"Toledo, OH","$21,280
+ (out-of-state)
+$11,920
+ (in-state)","11,965
+ (fall 2022)"
+#296,Alvernia University,"Reading, PA","$42,810","2,018
+ (fall 2022)"
+#296,Edgewood College,"Madison, WI","$33,550","1,233
+ (fall 2022)"
+#296,New Mexico State University,"Las Cruces, NM","$27,385
+ (out-of-state)
+$9,058
+ (in-state)","11,591
+ (fall 2022)"
+#296,Saint Mary's University of Minnesota,"Winona, MN","$43,160","1,100
+ (fall 2022)"
+#296,South Dakota State University,"Brookings, SD","$12,809
+ (out-of-state)
+$9,299
+ (in-state)","9,921
+ (fall 2022)"
+#296,Southeastern Baptist Theological Seminary,"Wake Forest, NC","$10,234","775
+ (fall 2022)"
+#296,University of the Incarnate Word,"San Antonio, TX","$35,660","4,724
+ (fall 2022)"
+#303,Aurora University,"Aurora, IL","$27,420","4,114
+ (fall 2022)"
+#303,Montana State University,"Bozeman, MT","$27,990
+ (out-of-state)
+$7,727
+ (in-state)","14,648
+ (fall 2022)"
+#304,Concordia University Wisconsin,"Mequon, WI","$34,250","2,817
+ (fall 2022)"
+#304,Ferris State University,"Big Rapids, MI","$14,686
+ (out-of-state)
+$14,686
+ (in-state)","9,000
+ (fall 2022)"
+#304,Florida Gulf Coast University,"Fort Myers, FL","$25,161
+ (out-of-state)
+$6,118
+ (in-state)","14,137
+ (fall 2022)"
+#304,Harding University,"Searcy, AR","$24,888","3,523
+ (fall 2022)"
+#304,Louisiana Tech University,"Ruston, LA","$19,608
+ (out-of-state)
+$10,695
+ (in-state)","10,083
+ (fall 2022)"
+#304,Middle Tennessee State University,"Murfreesboro, TN","$29,584
+ (out-of-state)
+$9,592
+ (in-state)","17,438
+ (fall 2022)"
+#304,Oakland City University,"Oakland City, IN","$27,150","699
+ (fall 2022)"
+#304,Radford University,"Radford, VA","$24,738
+ (out-of-state)
+$12,286
+ (in-state)","6,008
+ (fall 2022)"
+#304,Shenandoah University,"Winchester, VA","$36,028","2,461
+ (fall 2022)"
+#304,University of Hartford,"West Hartford, CT","$47,648","3,969
+ (fall 2022)"
+#304,University of Houston--Clear Lake,"Houston, TX","$26,081
+ (out-of-state)
+$9,101
+ (in-state)","6,254
+ (fall 2022)"
+#304,University of Indianapolis,"Indianapolis, IN","$36,136","3,613
+ (fall 2022)"
+#304,University of Nebraska Omaha,"Omaha, NE","$21,718
+ (out-of-state)
+$8,136
+ (in-state)","12,026
+ (fall 2022)"
+#304,The University of Texas--El Paso,"El Paso, TX","$24,952
+ (out-of-state)
+$9,544
+ (in-state)","20,165
+ (fall 2022)"
+#304,Western Michigan University,"Kalamazoo, MI","$18,218
+ (out-of-state)
+$14,594
+ (in-state)","14,397
+ (fall 2022)"
+#320,Abilene Christian University,"Abilene, TX","$42,380","3,189
+ (fall 2022)"
+#320,Andrews University,"Berrien Springs, MI","$33,710","1,295
+ (fall 2022)"
+#320,Campbell University,"Buies Creek, NC","$40,410","2,965
+ (fall 2022)"
+#320,Cleveland State University,"Cleveland, OH","$17,875
+ (out-of-state)
+$12,550
+ (in-state)","9,950
+ (fall 2022)"
+#320,D'Youville University,"Buffalo, NY","$33,540","1,399
+ (fall 2022)"
+#320,East Tennessee State University,"Johnson City, TN","$13,484
+ (out-of-state)
+$9,674
+ (in-state)","10,553
+ (fall 2022)"
+#320,Indiana University of Pennsylvania,"Indiana, PA","$14,864
+ (out-of-state)
+$11,380
+ (in-state)","7,047
+ (fall 2022)"
+#320,Kean University,"Union, NJ","$21,076
+ (out-of-state)
+$13,426
+ (in-state)","10,845
+ (fall 2022)"
+#320,Marymount University,"Arlington, VA","$38,250","2,275
+ (fall 2022)"
+#320,St. Ambrose University,"Davenport, IA","$35,598","2,120
+ (fall 2022)"
+#320,University of Puerto Rico--Rio Piedras,"Rio Piedras, PR","$2,168
+ (out-of-state)
+$5,324
+ (in-state)","10,207
+ (fall 2022)"
+#332,Augusta University,"Augusta, GA","$22,270
+ (out-of-state)
+$6,892
+ (in-state)","5,396
+ (fall 2022)"
+#332,Boise State University,"Boise, ID","$26,976
+ (out-of-state)
+$8,782
+ (in-state)","22,962
+ (fall 2022)"
+#332,Marshall University,"Huntington, WV","$19,658
+ (out-of-state)
+$8,604
+ (in-state)","7,962
+ (fall 2022)"
+#332,The Master's University and Seminary,"Santa Clarita, CA","$32,870","1,765
+ (fall 2022)"
+#332,Morgan State University,"Baltimore, MD","$18,800
+ (out-of-state)
+$8,118
+ (in-state)","7,609
+ (fall 2022)"
+#332,Oakland University,"Rochester, MI","$23,188
+ (out-of-state)
+$14,694
+ (in-state)","12,841
+ (fall 2022)"
+#332,Southern Illinois University Edwardsville,"Edwardsville, IL","$12,922
+ (out-of-state)
+$12,922
+ (in-state)","9,321
+ (fall 2022)"
+#332,Texas Woman's University,"Denton, TX","$23,140
+ (out-of-state)
+$10,540
+ (in-state)","10,150
+ (fall 2022)"
+#332,University of Findlay,"Findlay, OH","$40,186","3,906
+ (fall 2022)"
+#332,University of Wisconsin--Milwaukee,"Milwaukee, WI","$21,514
+ (out-of-state)
+$9,650
+ (in-state)","18,751
+ (fall 2022)"
+#332,University of Wisconsin--Oshkosh,"Oshkosh, WI","$15,368
+ (out-of-state)
+$7,795
+ (in-state)","11,773
+ (fall 2022)"
+#332,Wichita State University,"Wichita, KS","$18,226
+ (out-of-state)
+$8,860
+ (in-state)","12,696
+ (fall 2022)"
+#342,Lesley University,"Cambridge, MA","$31,364","1,757
+ (fall 2022)"
+#342,Missouri State University,"Springfield, MO","$17,144
+ (out-of-state)
+$8,604
+ (in-state)","18,837
+ (fall 2022)"
+#345,Baker University,"Baldwin City, KS","$33,800","1,187
+ (fall 2022)"
+#345,Concordia University Irvine,"Irvine, CA","$41,390","1,699
+ (fall 2022)"
+#345,Daemen University,"Amherst, NY","$33,724","1,782
+ (fall 2022)"
+#345,University of Louisiana at Lafayette,"Lafayette, LA","$24,110
+ (out-of-state)
+$10,382
+ (in-state)","12,950
+ (fall 2022)"
+#345,University of Lynchburg,"Lynchburg, VA","$35,540","1,589
+ (fall 2022)"
+#345,University of Tennessee at Chattanooga,"Chattanooga, TN","$25,966
+ (out-of-state)
+$9,848
+ (in-state)","9,884
+ (fall 2022)"
+#352,Eastern Kentucky University,"Richmond, KY","$20,222
+ (out-of-state)
+$9,844
+ (in-state)","12,072
+ (fall 2022)"
+#352,Georgia Southern University,"Statesboro, GA","$20,816
+ (out-of-state)
+$6,998
+ (in-state)","22,003
+ (fall 2022)"
+#352,Point Park University,"Pittsburgh, PA","$48,070","2,418
+ (fall 2022)"
+#352,Texas A&M University--Kingsville,"Kingsville, TX","$11,445
+ (out-of-state)
+$4,946
+ (in-state)","4,845
+ (fall 2022)"
+#352,University of Hawaii at Hilo,"Hilo, HI","$20,798
+ (out-of-state)
+$7,838
+ (in-state)","2,593
+ (fall 2022)"
+#352,University of Northern Colorado,"Greeley, CO","$26,204
+ (out-of-state)
+$12,010
+ (in-state)","6,728
+ (fall 2022)"
+#352,University of Southern Mississippi,"Hattiesburg, MS","$11,618
+ (out-of-state)
+$9,618
+ (in-state)","10,258
+ (fall 2022)"
+#352,Walsh University,"North Canton, OH","$34,595","1,558
+ (fall 2022)"
+#356,Gardner-Webb University,"Boiling Springs, NC","$33,230","1,983
+ (fall 2022)"
+#356,William Carey University,"Hattiesburg, MS","$14,685","3,337
+ (fall 2022)"
+#361,Arkansas State University,"State University, AR","$13,312
+ (out-of-state)
+$7,456
+ (in-state)","8,201
+ (fall 2022)"
+#361,Carson-Newman University,"Jefferson City, TN","$34,700","1,528
+ (fall 2022)"
+#361,Clark Atlanta University,"Atlanta, GA","$26,446","3,427
+ (fall 2022)"
+#361,Husson University,"Bangor, ME","$22,194","2,453
+ (fall 2022)"
+#361,The University of Akron,"Akron, OH","$17,239
+ (out-of-state)
+$12,799
+ (in-state)","11,323
+ (fall 2022)"
+#361,University of Montana,"Missoula, MT","$31,622
+ (out-of-state)
+$8,152
+ (in-state)","7,215
+ (fall 2022)"
+#361,The University of Texas--Tyler,"Tyler, TX","$25,198
+ (out-of-state)
+$9,920
+ (in-state)","6,971
+ (fall 2022)"
+#361,Western Kentucky University,"Bowling Green, KY","$27,000
+ (out-of-state)
+$11,436
+ (in-state)","14,440
+ (fall 2022)"
+#369,Dominican University New York,"Orangeburg, NY","$33,060","1,097
+ (fall 2022)"
+#369,Long Island University,"Brookville, NY","$41,492","11,319
+ (fall 2022)"
+#369,Mississippi College,"Clinton, MS","$21,698","2,396
+ (fall 2022)"
+#369,Regent University,"Virginia Beach, VA","$20,685","4,552
+ (fall 2022)"
+#369,Texas A&M University--Commerce,"Commerce, TX","$22,626
+ (out-of-state)
+$10,026
+ (in-state)","7,201
+ (fall 2022)"
+#369,University of Louisiana at Monroe,"Monroe, LA","$21,679
+ (out-of-state)
+$9,579
+ (in-state)","6,472
+ (fall 2022)"
+#369,University of Maryland Eastern Shore,"Princess Anne, MD","$19,728
+ (out-of-state)
+$8,898
+ (in-state)","1,933
+ (fall 2022)"
+#376,Dallas Baptist University,"Dallas, TX","$38,140","2,968
+ (fall 2022)"
+#376,Eastern Michigan University,"Ypsilanti, MI","$15,170
+ (out-of-state)
+$15,170
+ (in-state)","11,617
+ (fall 2022)"
+#376,Mount St. Joseph University,"Cincinnati, OH","$34,900","1,423
+ (fall 2022)"
+#376,Tarleton State University,"Stephenville, TX","$21,932
+ (out-of-state)
+$9,819
+ (in-state)","12,012
+ (fall 2022)"
+#376,University of Mary,"Bismarck, ND","$21,062","2,579
+ (fall 2022)"
+#376,Wingate University,"Wingate, NC","$41,516","2,510
+ (fall 2022)"
+#380,Pontifical Catholic University of Puerto Rico--Ponce,"Ponce, PR","$5,920","4,473
+ (fall 2022)"
+#382,Indiana State University,"Terre Haute, IN","$21,734
+ (out-of-state)
+$9,992
+ (in-state)","6,965
+ (fall 2022)"
+#382,Northern Kentucky University,"Highland Heights, KY","$21,480
+ (out-of-state)
+$10,896
+ (in-state)","10,776
+ (fall 2022)"
+#382,Palm Beach Atlantic University,"West Palm Beach, FL","$35,900","3,028
+ (fall 2022)"
+#382,Trevecca Nazarene University,"Nashville, TN","$27,300","1,867
+ (fall 2022)"
+#382,University of South Alabama,"Mobile, AL","$22,640
+ (out-of-state)
+$11,420
+ (in-state)","8,491
+ (fall 2022)"
+#382,University of West Georgia,"Carrollton, GA","$20,852
+ (out-of-state)
+$7,034
+ (in-state)","8,687
+ (fall 2022)"
+#389,University of Alaska--Fairbanks,"Fairbanks, AK","$22,032
+ (out-of-state)
+$7,896
+ (in-state)","5,844
+ (fall 2022)"
+#389,University of Bridgeport,"Bridgeport, CT","$35,760","1,873
+ (fall 2022)"
+#390,Roosevelt University,"Chicago, IL","$20,280","2,391
+ (fall 2022)"
+#390,Saint Leo University,"Saint Leo, FL","$28,360","2,336
+ (fall 2022)"
+#390,University of Arkansas--Little Rock,"Little Rock, AR","$18,957
+ (out-of-state)
+$8,366
+ (in-state)","6,236
+ (fall 2022)"
+#390,University of Michigan--Flint,"Flint, MI","$25,830
+ (out-of-state)
+$13,524
+ (in-state)","4,609
+ (fall 2022)"
+#395-435,Alabama State University,"Montgomery, AL","$19,396
+ (out-of-state)
+$11,068
+ (in-state)","3,296
+ (fall 2022)"
+#395-435,American International College,"Springfield, MA","$40,550","1,288
+ (fall 2022)"
+#395-435,Barry University,"Miami Shores, FL","$32,500","3,122
+ (fall 2022)"
+#395-435,Belhaven University,"Jackson, MS","$29,195","1,501
+ (fall 2022)"
+#394-435,Brenau University,"Gainesville, GA","$33,275","1,367
+ (fall 2022)"
+#394-435,Briar Cliff University,"Sioux City, IA","$34,498","709
+ (fall 2022)"
+#395-435,Capitol Technology University,"Laurel, MD","$27,004","331
+ (fall 2022)"
+#395-435,Colorado Technical University,"Colorado Springs, CO","$12,696","21,161
+ (fall 2022)"
+#395-435,Grand Canyon University,"Phoenix, AZ","$17,800","65,870
+ (fall 2022)"
+#395-435,Hardin-Simmons University,"Abilene, TX","$31,686","1,347
+ (fall 2022)"
+#395-435,Idaho State University,"Pocatello, ID","$25,936
+ (out-of-state)
+$7,958
+ (in-state)","9,818
+ (fall 2022)"
+#395-435,Jackson State University,"Jackson, MS","$9,445
+ (out-of-state)
+$8,445
+ (in-state)","4,763
+ (fall 2022)"
+#394-435,Kennesaw State University,"Kennesaw, GA","$20,966
+ (out-of-state)
+$6,898
+ (in-state)","39,005
+ (fall 2022)"
+#395-435,Lamar University,"Beaumont, TX","$22,826
+ (out-of-state)
+$10,586
+ (in-state)","8,257
+ (fall 2022)"
+#395-435,Liberty University,"Lynchburg, VA","$25,040","48,906
+ (fall 2022)"
+#395-435,Mary Baldwin University,"Staunton, VA","$33,127","1,314
+ (fall 2022)"
+#395-435,National Louis University,"Chicago, IL","$11,580","3,601
+ (fall 2022)"
+#395-435,Our Lady of the Lake University,"San Antonio, TX","$31,728","1,195
+ (fall 2022)"
+#395-435,Prairie View A&M University,"Prairie View, TX","$26,874
+ (out-of-state)
+$11,299
+ (in-state)","8,444
+ (fall 2022)"
+#395-435,Purdue University Global,"West Lafayette, IN","$14,445
+ (out-of-state)
+$10,134
+ (in-state)","32,477
+ (fall 2022)"
+#395-435,South College,"Knoxville, TN","$17,335","4,598
+ (fall 2022)"
+#395-435,Southeastern University,"Lakeland, FL","$31,732","8,840
+ (fall 2022)"
+#395-435,Southern University and A&M College,"Baton Rouge, LA","$10,479
+ (out-of-state)
+$9,290
+ (in-state)","6,470
+ (fall 2022)"
+#395-435,St. Thomas University,"Miami Gardens, FL","$34,770","3,980
+ (fall 2022)"
+#395-435,Tennessee State University,"Nashville, TN","$21,692
+ (out-of-state)
+$8,336
+ (in-state)","7,678
+ (fall 2022)"
+#395-435,Texas A&M University--Corpus Christi,"Corpus Christi, TX","$23,727
+ (out-of-state)
+$10,533
+ (in-state)","7,824
+ (fall 2022)"
+#395-435,Texas Southern University,"Houston, TX","$21,413
+ (out-of-state)
+$9,173
+ (in-state)","6,830
+ (fall 2022)"
+#395-435,Texas Wesleyan University,"Fort Worth, TX","$36,128","1,775
+ (fall 2022)"
+#395-435,Trinity International University,"Deerfield, IL","$33,898","517
+ (fall 2022)"
+#395-435,Universidad Ana G. Mendez--Gurabo Campus,"Gurabo, PR","$6,920","8,772
+ (fall 2022)"
+#394-435,University of Central Arkansas,"Conway, AR","$17,258
+ (out-of-state)
+$10,118
+ (in-state)","7,994
+ (fall 2022)"
+#395-435,University of Charleston,"Charleston, WV","$31,900","2,162
+ (fall 2022)"
+#395-435,University of Colorado--Colorado Springs,"Colorado Springs, CO","$27,072
+ (out-of-state)
+$10,942
+ (in-state)","9,540
+ (fall 2022)"
+#394-435,University of Mary Hardin-Baylor,"Belton, TX","$33,150","3,072
+ (fall 2022)"
+#394-435,University of New Orleans,"New Orleans, LA","$14,190
+ (out-of-state)
+$9,354
+ (in-state)","5,804
+ (fall 2022)"
+#395-435,University of Pikeville,"Pikeville, KY","$24,150","1,483
+ (fall 2022)"
+#395-435,University of the Cumberlands,"Williamsburg, KY","$9,875","5,174
+ (fall 2022)"
+#395-435,Valdosta State University,"Valdosta, GA","$17,062
+ (out-of-state)
+$6,007
+ (in-state)","7,589
+ (fall 2022)"
+#395-435,William Woods University,"Fulton, MO","$27,480","781
+ (fall 2022)"
+#395-435,Wilmington University,"New Castle, DE","$12,030","8,332
+ (fall 2022)"
+#394-435,Wright State University,"Dayton, OH","$19,494
+ (out-of-state)
+$10,076
+ (in-state)","6,938
+ (fall 2022)"
+Unranked,Albizu University--Miami,"Miami, FL","$13,719","179
+ (fall 2022)"
+Unranked,Alliant International University,"San Diego, CA","$17,130","95
+ (fall 2022)"
+Unranked,Loma Linda University,"Loma Linda, CA","$37,332","1,073
+ (fall 2022)"
+Unranked,Pontifical Catholic University of Puerto Rico--Arecibo,"Arecibo, PR","$5,818","361
+ (fall 2022)"
